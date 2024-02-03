@@ -116,3 +116,63 @@ Where size is one of:
     auto - for classes that set the margin to auto
 
 (You can add more sizes by adding entries to the $spacers Sass map variable.)
+
+### Display Property
+
+-   Hiding elements: `d-none`
+-   display inline: `d-inline`
+
+### Overflow
+
+-   auto: `overflow-auto`
+-   `overflow-hidden`
+-   `overflow-visible`
+-   `overflow-scroll`
+
+### Position
+
+## Shadow
+
+## Tables
+
+### Responsive tables
+```html
+<div class="table-responsive">
+  <table class="table">
+    ...
+  </table>
+</div>
+
+<div class="table-responsive-sm">
+  <table class="table">
+    ...
+  </table>
+</div>
+
+<div class="table-responsive-md">
+  <table class="table">
+    ...
+  </table>
+</div>
+
+<div class="table-responsive-lg">
+  <table class="table">
+    ...
+  </table>
+</div>
+
+<div class="table-responsive-xl">
+  <table class="table">
+    ...
+  </table>
+</div>
+
+<div class="table-responsive-xxl">
+  <table class="table">
+    ...
+  </table>
+</div>
+```
+
+## Alerts
+
