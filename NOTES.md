@@ -136,43 +136,53 @@ Where size is one of:
 ## Tables
 
 ### Responsive tables
+
 ```html
 <div class="table-responsive">
-  <table class="table">
-    ...
-  </table>
+    <table class="table">
+        ...
+    </table>
 </div>
 
 <div class="table-responsive-sm">
-  <table class="table">
-    ...
-  </table>
+    <table class="table">
+        ...
+    </table>
 </div>
 
 <div class="table-responsive-md">
-  <table class="table">
-    ...
-  </table>
+    <table class="table">
+        ...
+    </table>
 </div>
 
 <div class="table-responsive-lg">
-  <table class="table">
-    ...
-  </table>
+    <table class="table">
+        ...
+    </table>
 </div>
 
 <div class="table-responsive-xl">
-  <table class="table">
-    ...
-  </table>
+    <table class="table">
+        ...
+    </table>
 </div>
 
 <div class="table-responsive-xxl">
-  <table class="table">
-    ...
-  </table>
+    <table class="table">
+        ...
+    </table>
 </div>
 ```
 
-## Alerts
+## Alerts & Toasts
+
+Can write your own js logic to trigger them.
+
+## Navs & Navbars
+
+-   `dropdown-item`
+
+## Icons
+
 
